@@ -46,7 +46,7 @@ houseprice_prediction/
 
 ## clone the repo: 
 ```bash
-git clone https://github.com/shrinathasati/Python-Developer-Assignment.git
+git clone https://github.com/shrinathasati/Python-Developer-Role-Assignment.git
 cd Python-Developer-Assignment
 ```
 
